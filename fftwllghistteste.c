@@ -11,7 +11,7 @@
 //#define FRANDOM  genrand64_real1() /* chamando o gerador de números aleatórios*/
 /*----------------------------------------------------------------------------------------*/
 
-#define FILEOUT "teste5.dat"                        // NOMEAND0 ARQUIVO
+#define FILEOUT "teste.dat"                        // NOMEAND0 ARQUIVO
 
 #define PI M_PI 
 
